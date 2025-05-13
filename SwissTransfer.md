@@ -62,6 +62,4 @@ The recipient will receive your message with a download link. If you've set a ti
 
 In an era where data breaches and privacy concerns are more prevalent than ever, tools like SwissTransfer are crucial for freelancers who handle sensitive information. 
 
-By offering a secure, simple, and compliant platform for file sharing, SwissTransfer ensures that freelancers can focus on what they do best—delivering high-quality work to clients—while knowing their data is protected. 
-
-For any freelancer concerned about cybersecurity, compliance, and the need to protect their client's privacy, SwissTransfer is an indispensable tool that should be part of their workflow.
+By offering a simple and secure platform for file sharing, hosted in a European country that has a robust privacy regulation, SwissTransfer ensures that freelancers can focus on what they do best—delivering high-quality work to clients—while knowing their data is protected. 
