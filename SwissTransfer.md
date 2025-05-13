@@ -1,18 +1,12 @@
-# SwissTransfer: A Freelancer’s Reliable Tool for Secure File Sharing
+# SwissTransfer: A Freelancer’s Tool for Secure File Sharing
 
-In today’s digital age, freelancers often juggle multiple clients, projects, and deadlines while managing sensitive data across various platforms. Whether it’s sharing large documents, collaborating with clients, or ensuring the confidentiality of personal and business information, freelancers must prioritize cybersecurity and compliance. 
+In today’s digital age, freelancers often juggle multiple clients, projects, and deadlines while managing sensitive data across various platforms. Whether it’s sharing large documents, collaborating with clients, or ensuring the confidentiality of personal and business information, freelancers must prioritize cybersecurity and whenever required, compliance with existing regulations. In particular, they must take care of the private data of their customers, partners and suppliers. 
 
-**[SwissTransfer](https://www.swisstransfer.com/en-gb)**, a secure file-sharing tool offered by **[Infomaniak](https://www.infomaniak.com/en)**, is designed with these very concerns in mind, offering a simple, secure, and compliant way to share files without compromising privacy. As a freelancer, using SwissTransfer can enhance your efficiency, while also ensuring that your data remains safe and compliant with international standards.
+**[SwissTransfer](https://www.swisstransfer.com/en-gb)**, a secure file-sharing tool offered by **[Infomaniak](https://www.infomaniak.com/en)**, is designed with these very concerns in mind, offering a simple and secure way to share files without compromising privacy. As a freelancer, using such a solution can enhance your efficiency, while also ensuring that your data remains safe.
 
 ## 1. Why Should Freelancers Use SwissTransfer?
 
-For freelancers concerned about cybersecurity, compliance, and efficient file-sharing, SwissTransfer offers a perfect balance of robust security features, user-friendliness, and legal compliance. 
-
-Whether working with clients across borders or sharing confidential business documents, SwissTransfer provides a secure solution for sending files quickly and confidently. It eliminates the need for complex security setups while offering features that can safeguard a freelancer’s data at all stages of file transfer.
-
-Additionally, the ability to set expiration dates, use customizable links, and control access means freelancers can protect their clients’ sensitive information while remaining compliant with privacy regulations like GDPR. 
-
-As a freelancer, choosing a reliable and secure platform for file sharing is essential, and SwissTransfer provides a clear answer by offering high-end encryption, privacy compliance, and ease of use—all without the need for complicated setups or technical knowledge.
+Although this solution is not open-source, it has the benefit of being developed in Switzerland, whose privacy regulation is consistent with the EU privacy framework. The data are stored in Switzerland, and not in any country outside the European Union or Switzerland, limiting their exposure to legal and regulatory systems that are not as respectful of individuals' privacy.
 
 ## 2. How to use SwissTransfer?
 
